@@ -1,0 +1,13 @@
+{
+  "Short link": {
+    "prefix": "shortlink",
+    "body": [
+      "---",
+      "layout: forward",
+      "target: $1",
+      "---",
+      ""
+    ],
+    "description": "Create a short link template"
+  }
+}
